@@ -4,7 +4,7 @@
 
 ### To print today’s date
 ![preview](linux-1.png)
-![preview](linux-1.png)
+![preview](images/linux-1.png)
 
 ### To print hostname of the pc
 ![preview](linux-2.png)
