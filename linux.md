@@ -1,23 +1,25 @@
-Q) What is Linux?
+# LINUX-NOTES
+
+### What is Linux?
 	it is an opensource operating system.
 
-Q)what is operating system?
+### what is operating system?
 	it is a interface between user & hardware. and it is a platform to run applications
 
-Q)why we need Linux?
-	- it is virusfree os.
-	- it is robust and stable.
-	- more secured
- 	- open-source
-    - FOSS --- free and opensource
+### why we need Linux?
+- it is virusfree os.
+- it is robust and stable.
+- more secured
+- open-source
+- FOSS --- free and opensource
 
-money based:
+* money based:
 	proprietary  -- microsoft -> windows
 
 	non-proprietary   
 		opensource --> GNU, android
  		closed source ---> redhat, ubuntu  --- > AMI ec2, IBM, sunsoloaris.
-Linux flavours:
+### Linux flavours:
 --------------
 debian		redhat/centos/fedora/mandriva/caldera (yum)
 ubuntu
@@ -26,7 +28,7 @@ xubuntu
 kali
 
 
-Virtualization:
+### Virtualization:
 --------------
 - on top of single hardware run multiple machines. (or) multiple machines share single hardware.
 - 2 types of virtualization is their
@@ -37,24 +39,24 @@ Virtualization:
 - defaultly some laptops doesnot enable virtualization. so enable in BIOS settings.
 
 
-Hardware required:
+### Hardware required:
 -----------------
 	- i3 processor minimum
 	- 4-8 GB RAM
 	- 50 GB free hard disk minimum
 - if your LAPTOP doesn't support virtualization use cloud computing like AWS, AZURE, GOOGLE CLOUD
 
-Pre-requisites TO install a Centos:
+### Pre-requisites TO install a Centos:
 -----------------------------------
 - download and install "virtual box" (as per your operating system)
 - download ISO image from official website.
 
-Linux installation on oracle virtual box:
+### Linux installation on oracle virtual box:
 ----------------------------------------
 - download virtulabox from official website
 - and install it
 
-installation types:
+### installation types:
 -------------------
 full-disk	---) it has complete os, GUI
 DVD		---) pre-installed os in disk, mostly using for test the os
@@ -64,7 +66,7 @@ minimal 	---) it has required configuration files for os, TUI
 GUI	--) Graphical User Interface
 TUI	--) Text User Interface
 
-Install Centos:
+### Install Centos:
 --------------
 - open virtualbox
 - click on "new"
@@ -79,7 +81,7 @@ Install Centos:
 - here you can specify the path of ISO image. next ok
 - then double click on "new machine item" 
 
-Linux booting:
+### Linux booting:
 -------------
 	It is a process to initiate a laptop or desktop with os.
 - when you press the power button then internally some process is going so, that is known as booting process.
