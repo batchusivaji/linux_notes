@@ -70,8 +70,7 @@
 
 ### To show current directory: pwd
  ![preview](images/linux-21.png)
-### To read a file from terminal: cat <name of the file in .txt format
->
+### To read a file from terminal: cat <name of the file in .txt format>
 ![preview](images/linux-22.png)
 ### To read a file one at a time from terminal: less [name of the file in .txt format]
 ![preview](images/linux-23.png)
@@ -86,3 +85,5 @@
 ### To open a folder: nautilus /<destination of the directory>
 
 ### To create shortcut for commands: alias <user defined shortcut key>=‘<command>’
+
+### Top 50 linux commands

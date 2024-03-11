@@ -1662,3 +1662,6 @@ vnc-server:
 	www.realvnc.com/download/viewer (download exe file)
 - to connect vnc-server use port 5901
 
+kill ps in windows:
+------------------
+ps | where Name -Like 'mspaint' | kill
